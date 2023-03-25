@@ -5,6 +5,6 @@ schede madri:per maggiori informazioni consultare schede_madri.md
 Processori: per maggiori informazioni consultare il file processori.md 
 
 Periferiche
-
+tastiere:per maggiori infomazioni consultare tastiere.md
 
 Elettronica Padovana
